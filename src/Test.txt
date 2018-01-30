@@ -1,1 +1,1 @@
-test
+This string is added form Eclipse
