@@ -16,7 +16,7 @@
         <members>Test_MPOT_ViewCRController</members>
         <members>Test_MPOT_ViewProjectController</members>
         <name>ApexClass</name>
-    <members>created from JAVA!!!!</members></types>
+    <members>created from JAVA!!!!</members><members>created from JAVA!!!!</members></types>
     <types>
         <members>MPOT_MonthlyLogListViewComponent</members>
         <name>ApexComponent</name>
