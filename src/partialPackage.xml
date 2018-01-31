@@ -20,7 +20,10 @@
     <types>
         <members>MPOT_MonthlyLogListViewComponent</members>
         <name>ApexComponent</name>
-    </types>
+    </types> 
+    
+    <!-- Module Name -->
+    
     <types>
         <members>MPOT_ChangeRecReqPage</members>
         <members>MPOT_CreateEditProjectPage</members>
@@ -39,6 +42,7 @@
         <members>MPOT_Change_Log__c</members>
         <members>MPOT_Monthly_Update_Change_Log__c</members>
         <members>MPOT_Project_Milestone__c</members>
+
         <members>MPOT_Project_Connections__c</members>
         <members>MPOT_Change_Log__c</members>
         <name>CustomObject</name>
@@ -59,6 +63,7 @@
     </types>
     <types>
         <members>GLBL_Project__c-MPOT Project</members>
+
         <members>MPOT_Change_Log__c-MPOT Milestone Layout</members>
         <members>MPOT_Change_Log__c-MPOT Project Layout</members>
         <name>Layout</name>
