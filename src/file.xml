@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><exceptions>
 
-</exceptions>
+
+<!--
+=======================================================
+App...: ELCCheck Marks 
+========================================================
+-->
+<cxResults>
+<app>ELC</app>
+<cxQueryName>Stored_XSS</cxQueryName>
+<file>ytes</file>
+<line>8</line>
+<column>8</column>
+<approvedBy>Manikanta Rama ReddyPadala</approvedBy>
+<justification>test</justification>
+<expiresYyyyMmDd/>
+</cxResults>
+<!--
+=======================================================
+End Appp...: ELCCheck Marks 
+========================================================
+--></exceptions>
