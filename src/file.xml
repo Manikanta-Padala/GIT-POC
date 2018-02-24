@@ -35,6 +35,15 @@ App...: CTSSExceptions
 <justification>test</justification>
 <expiresYyyyMmDd/>
 </generics>
+<generics>
+<app>CTSS</app>
+<org>gso1</org>
+<type>ApexClass</type>
+<item>TESSttt</item>
+<approvedBy>Manikanta Rama ReddyPadala</approvedBy>
+<justification>test</justification>
+<expiresYyyyMmDd/>
+</generics>
 <!--
 =======================================================
 End Appp...: CTSSExceptions 
@@ -49,6 +58,16 @@ App...: CTSSCheck Marks
 <app>CTSS</app>
 <cxQueryName>Stored_XSS</cxQueryName>
 <file>Test</file>
+<line>4</line>
+<column>4</column>
+<approvedBy>Manikanta Rama ReddyPadala</approvedBy>
+<justification>test</justification>
+<expiresYyyyMmDd/>
+</cxResults>
+<cxResults>
+<app>CTSS</app>
+<cxQueryName>Stored_XSS</cxQueryName>
+<file>Testttt</file>
 <line>4</line>
 <column>4</column>
 <approvedBy>Manikanta Rama ReddyPadala</approvedBy>
