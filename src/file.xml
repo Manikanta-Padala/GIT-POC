@@ -107,6 +107,25 @@ App...: ELC Exceptions
 End Appp...: ELC Exceptions 
 ========================================================
 -->
+<!--
+=======================================================
+App...: ERMS Exceptions 
+========================================================
+-->
+<generics>
+<app>ERMS</app>
+<org>gso1</org>
+<type>ApexClass</type>
+<item>TestClass.cls</item>
+<approvedBy>Manikanta Rama ReddyPadala</approvedBy>
+<justification>test comment</justification>
+<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+</generics>
+<!--
+=======================================================
+End Appp...: ERMS Exceptions 
+========================================================
+-->
 
   
 
