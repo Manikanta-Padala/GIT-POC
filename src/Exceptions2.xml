@@ -40510,4 +40510,23 @@ App...: IIR Exceptions
 End Appp...: IIR Exceptions 
 ========================================================
 -->
+<!--
+=======================================================
+App...: ERMS Exceptions 
+========================================================
+-->
+<generics>
+<app>ERMS</app>
+<org>gso1</org>
+<type>ApexClass</type>
+<item>TestClass.cls</item>
+<approvedBy>Sudheer Kakkireni</approvedBy>
+<justification>test comment</justification>
+<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+</generics>
+<!--
+=======================================================
+End Appp...: ERMS Exceptions 
+========================================================
+-->
 </exceptions>
