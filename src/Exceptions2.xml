@@ -547,15 +547,7 @@
   
   
   
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Primary_St_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -1438,15 +1430,7 @@
   
   
   
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Party_Sts_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -40458,6 +40442,17 @@ App...: CTSSExceptions
     <justification>Skipping exception</justification>
     <expiresYyyyMmDd>20180606</expiresYyyyMmDd>
   </generics>
+<!--
+=======================================================
+App...: IIRExceptions 
+========================================================
+-->
+
+<!--
+=======================================================
+End Appp...: IIRExceptions 
+========================================================
+-->
 <!--
 =======================================================
 End Appp...: CTSSExceptions 
