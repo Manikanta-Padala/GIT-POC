@@ -48,4 +48,24 @@ App...: ERRS Exceptions
 =======================================================
 End Appp...: ERRS Exceptions 
 ========================================================
+-->
+<!--
+=======================================================
+App...: MERCCheck Marks 
+========================================================
+-->
+<cxResults>
+<app>MERC</app>
+<cxQueryName>Stored_XSS</cxQueryName>
+<file>test</file>
+<line>3</line>
+<column>10</column>
+<approvedBy>Bala Padala</approvedBy>
+<justification>test</justification>
+<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+</cxResults>
+<!--
+=======================================================
+End Appp...: MERCCheck Marks 
+========================================================
 --></exceptions>
