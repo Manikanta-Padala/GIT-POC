@@ -86,15 +86,7 @@
   
   
   
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/Work_Orders_Lab_Equip_Past_Due</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -146,15 +138,7 @@
   
   
   
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/October_15_31_2015</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -481,15 +465,7 @@
   
   
   
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>PermissionSet___MED_Users</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -539,15 +515,7 @@
   
   
   
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Fax_Extnsn_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -1438,15 +1406,7 @@
   
   
   
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Dept_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -3496,15 +3456,7 @@
    
    
    
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Orig_Rev_ALCOBENDAS</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    
    
    
@@ -40509,6 +40461,17 @@ App...: CTSSExceptions
 <!--
 =======================================================
 End Appp...: CTSSExceptions 
+========================================================
+-->
+<!--
+=======================================================
+App...: IIRExceptions 
+========================================================
+-->
+
+<!--
+=======================================================
+End Appp...: IIRExceptions 
 ========================================================
 -->
 <!--
