@@ -40505,6 +40505,15 @@ App...: IIR Exceptions
 <justification>Skipping exception</justification>
 <expiresYyyyMmDd>20180606</expiresYyyyMmDd>
 </generics>
+<generics>
+<app>IIR</app>
+<org>gso1</org>
+<type>ApexClass</type>
+<item>TestClass.cls</item>
+<approvedBy>Sudheer Kakkireni</approvedBy>
+<justification>test comment</justification>
+<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+</generics>
 <!--
 =======================================================
 End Appp...: IIR Exceptions 
