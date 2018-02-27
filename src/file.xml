@@ -88,25 +88,7 @@ App...: IIR Exceptions
 End Appp...: IIR Exceptions 
 ========================================================
 -->
-<!--
-=======================================================
-App...: ELC Exceptions 
-========================================================
--->
-<generics>
-<app>ELC</app>
-<org>gso1</org>
-<type>ApexComponent</type>
-<item>TestComponent2</item>
-<approvedBy>Sudheer Kakkireni</approvedBy>
-<justification>Skipping exception</justification>
-<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
-</generics>
-<!--
-=======================================================
-End Appp...: ELC Exceptions 
-========================================================
--->
+
   
 
 </exceptions>
