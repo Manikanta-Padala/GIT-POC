@@ -40558,4 +40558,23 @@ App...: ERMSCheck Marks
 End Appp...: ERMSCheck Marks 
 ========================================================
 -->
+<!--
+=======================================================
+App...: MPO Exceptions 
+========================================================
+-->
+<generics>
+<app>MPO</app>
+<org>gso1</org>
+<type>ApexClass</type>
+<item>TestClass.cls</item>
+<approvedBy>Sudheer Kakkireni</approvedBy>
+<justification>test comment</justification>
+<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+</generics>
+<!--
+=======================================================
+End Appp...: MPO Exceptions 
+========================================================
+-->
 </exceptions>
