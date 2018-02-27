@@ -54,15 +54,7 @@
     <justification>App-specific removals are validated by code</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>EmailTemplate___sm1e_WO_Assignment</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -72,15 +64,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Workflow___sm1e Send Email Notice on Owner Change</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -91,15 +75,7 @@
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
   
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Workflow___Update Floating Interval CB</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -109,15 +85,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>PermissionSet___sm1e_AssetOptics_Administrator</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -127,15 +95,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>PermissionSet___sm1e_AssetOptics_Maintenance_Technician</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -145,15 +105,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Group___AssetOptics_Elanco</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -163,15 +115,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Queue___AssetOptics_Elanco</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -181,15 +125,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/Lab_Work_Orders_Past_Due</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -199,15 +135,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/Open_Work_Orders_by_Due_Date_Week</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -217,15 +145,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/Work_Orders_Completed_This_Month</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -235,15 +155,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/Work_Orders_Past_Due_30_Days</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -253,15 +165,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/WO_Completed_Closed_by_Month</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -271,15 +175,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/October_15_31_2015</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -289,15 +185,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/Completed_WO</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -307,15 +195,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/WO_to_Schedule_by_Month2</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -325,15 +205,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/Open_Work_Orders_for_Lab_Equipment</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -343,15 +215,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/WO_Lab_Equip_Past_Due_by_Due_Date</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -361,15 +225,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Dashboard___Elanco_Assetoptics_Dashboards/Work_Order_Overview</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -379,15 +235,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Dashboard___Elanco_Assetoptics_Dashboards/Lab_Overview</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -397,15 +245,7 @@
     <justification>SM1E is just keeping this test class to prvent all test classes from running.</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>EmailTemplate___sm1e__SaaSMaint</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -415,15 +255,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>ApprovalProcess___sm1e__smWork_Order__c.Work_Request_Approval</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -433,15 +265,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Workflow___sm1e__smPM_Schedule__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -451,15 +275,7 @@
     <justification>This component is owned by SM1E app</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>WorkflowRule___sm1e__smWork_Order__c.sm1e ChangeOwnerElancoQueue</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -469,15 +285,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>WorkflowRule___sm1e__smPM_Schedule__c.Update Floating Interval CB True</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -487,15 +295,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>WorkflowAlert___sm1e__smWork_Order__c.sm1e_Notify_User_of_Work_Order_Assignment</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -505,15 +305,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>WorkflowFieldUpdate___sm1e__smPM_Schedule__c.Update_Floating_True</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -523,15 +315,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Dashboard___Elanco_AssetOptics_Dashboards</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -541,15 +325,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Dashboard___Elanco_AssetOptics_Dashboards/Maintenance_Overview1</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -559,15 +335,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>sm1e_AssetOptics_Administrator.permissionset___ViewMyTeamsDashboards</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -577,15 +345,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>sm1e_AssetOptics_Administrator.permissionset___ViewPublicReports</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -595,15 +355,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>sm1e_AssetOptics_Maintenance_Supervisor.permissionset___ViewPublicDashboards</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -613,15 +365,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>sm1e_AssetOptics_Maintenance_Technician.permissionset___ViewPublicDashboards</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -631,15 +375,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>sm1e_AssetOptics_Requester.permissionset___ViewPublicDashboards</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -649,15 +385,7 @@
     <justification>App specific removals</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Dashboard</type>
-    <item>Elanco_AssetOptics_Dashboards/Lab_Overview</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -667,15 +395,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Dashboard</type>
-    <item>Elanco_AssetOptics_Dashboards/Work_Order_Overview</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -685,15 +405,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Group</type>
-    <item>AssetOptics_Elanco_Supervisors</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -703,15 +415,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -721,15 +425,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/Lab_Work_Orders_Past_Due</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -739,15 +435,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/Open_Work_Orders_by_Dept</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -757,15 +445,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/Open_Work_Orders_by_Technician</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -775,15 +455,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/PM_Schedules</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -793,15 +465,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/WO_Lab_Equip_Past_Due_by_Due_Date</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -811,15 +475,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/WO_to_Schedule_by_Month2</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -829,15 +485,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/Work_Orders_Completed_Last_Week</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -847,15 +495,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/Work_Orders_Lab_Equip_Past_Due</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -865,15 +505,7 @@
     <justification>SM1E owns this component</justification>
     <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/Work_Orders_Past_Due_30_Days</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -994,15 +626,7 @@
     <justification>App-specific removals are validated by code</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>TRMA</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>CustomApplication___Talent_Relationship_Management</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>TRMA owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>TRMA</app>
     <org>gso1</org>
@@ -1112,15 +736,7 @@
   App...: LAPD
   ==================================================================================================
 -->
-  <generics>
-    <app>LAPD</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App-specific removals are validated by code</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>LAPD</app>
     <org>gso1</org>
@@ -1130,15 +746,7 @@
     <justification>Removing left over LAPD specific components.</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>LAPD</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Document___LPAD_Images/LPAD_Logo.png</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Removing left over LAPD specific components.</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>LAPD</app>
     <org>gso1</org>
@@ -1148,15 +756,7 @@
     <justification>Removing left over LAPD specific components.</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>LAPD</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Letterhead___LPAD_Standard</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Removing left over LAPD specific components.</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>LAPD</app>
     <org>gso1</org>
@@ -1185,15 +785,7 @@
   App...: LCOI
   ==================================================================================================
 -->
-  <generics>
-    <app>LCOI</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Chris Dieter</approvedBy>
-    <justification>Chris has approved over email</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>LCOI</app>
     <org>gso1</org>
@@ -1203,15 +795,7 @@
     <justification>Chris has approved over email</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>LCOI</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>PermissionSet___LCOI_Super_User</item>
-    <approvedBy>Chris Dieter</approvedBy>
-    <justification>Chris has approved over email</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>LCOI</app>
     <org>gso1</org>
@@ -1250,15 +834,7 @@
   App...: MSED
   ==================================================================================================
 -->
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
     <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1268,15 +844,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>ApexClass___MED_CreateListOptionJunction_Ext</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1286,15 +854,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>ApexClass___MED_Search</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1304,15 +864,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>ApexClass___Test_MED_CreateListOptionJunction</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1322,15 +874,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>ApexClass___Test_MED_Search</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1340,15 +884,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>ApexPage___MED_Search_Page</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1358,15 +894,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>ApexPage___MED_ViewProfile</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1376,15 +904,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>CustomObject___MED_List_Option_Junction__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1394,15 +914,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>CustomObject___MED_Profile__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1412,15 +924,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>CustomTab___MED_List_Option_Junction__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1430,15 +934,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>CustomTab___MED_Profile__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1448,15 +944,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Group___MED_All_Users</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1466,15 +954,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Group___MED_Search_All_Profiles_Users</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1484,15 +964,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Layout___MED_List_Option__c-MED</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1502,15 +974,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Layout___MED_Search_History__c-MED</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1520,15 +984,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>PermissionSet___MED_User</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1538,15 +994,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>SharingCriteriaRule___MED_Profile__c.MED_Not_Opted_out_Sharing_to_all_MEDB_users</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1556,15 +1004,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___MED_Admin_Reports</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1574,15 +1014,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Layout___MED_Search_History__c-MED Search History Layout</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1592,15 +1024,7 @@
     <justification>Changing app code from MED to MSED</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Layout___MED_List_Option__c-MED List Option Layout</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MSED</app>
     <org>gso1</org>
@@ -1620,15 +1044,7 @@
   App...: OAPT
   ==================================================================================================
 -->
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>Layout</type>
-    <item>Account-GLBL_HCO Organization</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1638,15 +1054,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Altrnt_Nm_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1656,15 +1064,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Bsns_Nm2_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1674,15 +1074,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Clsfctn_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1692,15 +1084,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cntrct_Elgblty_Sts_Txt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1710,15 +1094,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cntrct_Shrt_Nm_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1728,15 +1104,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Country_of_Residence_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1746,15 +1114,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cust_Id_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1764,15 +1124,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cust_Typ_Desc_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1782,15 +1134,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Del_Date_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1800,15 +1144,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Dept_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1818,15 +1154,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Efctv_End_Dt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1836,15 +1164,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs2_Cntry_Prfx_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1854,15 +1174,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs2_Txt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1872,15 +1184,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Elc_Txt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1890,15 +1194,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Fax_Cntry_Prfx_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1908,15 +1204,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Fax_Txt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1926,15 +1214,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Web_Txt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1944,15 +1224,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Frmr_Nm_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1962,15 +1234,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Govt_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1980,15 +1244,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Ims_Xponent_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -1998,15 +1254,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Mltry_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2016,15 +1264,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.ODS_Ld_Usr_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2034,15 +1274,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.ODS_Lst_Updt_Usr_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2052,15 +1284,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.PHAP_Chain__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2070,15 +1294,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.PHAP_Unique_Code__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2088,15 +1304,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Party_Sts_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2106,15 +1314,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Plan_Typ_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2124,15 +1324,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Prfrd_Nm_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2142,15 +1334,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Primary_Addr_City_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2160,15 +1344,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Primary_Addr_Line2_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2178,15 +1354,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Primary_Pstl_Cd_Extnsn_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2196,15 +1364,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Quality_Level_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2214,15 +1374,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Spclty_Desc_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2232,15 +1384,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Src_Sys_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2250,15 +1394,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Sub_Clsfctn_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2268,15 +1404,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.System_Id_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2286,15 +1414,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Trng_Acct_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2304,15 +1424,7 @@
     <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
     <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Trtry_Desc_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2324,15 +1436,7 @@
   </generics>
 
     <!--Adding two new fields based on the object being used common across different apps> -->
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.AICT_Primary_SAP_Name__c</item>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>OAPT</app>
     <org>gso1</org>
@@ -2352,15 +1456,7 @@
   App...: LLIR
   ==================================================================================================
 -->
-  <generics>
-    <app>LLIR</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App-specific removals are validated by code.Check US-51379 for more details</justification>
-    <expiresYyyyMmDd>20171215</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   End App...: LLIR
@@ -2390,15 +1486,7 @@
   App...: CRDA
   ==================================================================================================
 -->
-  <generics>
-    <app>CRDA</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>check US-52346 for more details</justification>
-    <expiresYyyyMmDd>20170920</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   End App...: CRDA
@@ -2438,15 +1526,7 @@
     <justification>Legacy Component</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>BUDD</app>
-    <org>gso1</org>
-    <type>StandardValueSet</type>
-    <item>CaseReason</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Buddy is adding more picklist valies to the standard field Case reason, which will be visible to only their app specific record type.</justification>
-    <expiresYyyyMmDd>20171115</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   End App...: BUDD
@@ -2566,15 +1646,7 @@
     <justification>For justification refer to QD-004641 and RI-0443</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>CFSO</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>The OWD of the CFSO_Request__c object is getting changed to 'Public Read Write' and hence the corresponding the sharring rules need to be deleted.</justification>
-    <expiresYyyyMmDd>20170831</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   App...: CFSO
@@ -2650,15 +1722,7 @@
   App...: RPLR
   ==================================================================================================
 -->
-  <generics>
-    <app>RPLR</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification/>
-    <expiresYyyyMmDd>20170131</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   End App...: RPLR
@@ -2670,15 +1734,7 @@
   App...: GSOC
   ==================================================================================================
 -->
-  <generics>
-    <app>GSOC</app>
-    <org>gso1</org>
-    <type>CustomObject</type>
-    <item>GLBL_Platform_Monitoring__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Updating per US-47481.</justification>
-    <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSOC</app>
     <org>gso1</org>
@@ -2715,15 +1771,7 @@
     <justification>GSOC owns this item</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>GSOC</app>
-    <org>gso1</org>
-    <type>Workflow</type>
-    <item>GLBL_Platform_Monitoring__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Updating per US-47481.</justification>
-    <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSOC</app>
     <org>gso1</org>
@@ -2733,15 +1781,7 @@
     <justification>Updating per US-47481.</justification>
     <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>GSOC</app>
-    <org>gso1</org>
-    <type>Profile</type>
-    <item>Admin</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>GSOC team is updating layout assignments on system admin profile</justification>
-    <expiresYyyyMmDd>20161222</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSOC</app>
     <org>gso1</org>
@@ -2916,15 +1956,7 @@
     <justification>KS55 owns this component</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>KS55</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>GLBL_Global_List_of_Values__c.GLBL_Field_Name__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>KS55 is adding picklist values to this global picklist field</justification>
-    <expiresYyyyMmDd>20161130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>KS55</app>
     <org>gso1</org>
@@ -2944,15 +1976,7 @@
   App...: JLGO
   ==================================================================================================
 -->
-  <generics>
-    <app>JLGO</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>App is being retired.</justification>
-    <expiresYyyyMmDd>20161230</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>JLGO</app>
     <org>gso1</org>
@@ -2994,15 +2018,7 @@
   App...: SEOC
   ==================================================================================================
 -->
-  <generics>
-    <app>SEOC</app>
-    <org>gso1</org>
-    <type>CustomObject</type>
-    <item>GLBL_User_Settings__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SEOC is enabling enahance lookup and is adding the user field in the search layout.</justification>
-    <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>SEOC</app>
     <org>gso1</org>
@@ -3023,15 +2039,7 @@
   App...: GSO1
   ==================================================================================================
 -->
-  <generics>
-    <app>GSO1</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>User.GLBL_Heroku_Id__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>See QD-004243 for details</justification>
-    <expiresYyyyMmDd>20161130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSO1</app>
     <org>gso1</org>
@@ -3150,15 +2158,7 @@
     <justification>We donot assert within @testSetup</justification>
     <expiresYyyyMmDd/>
   </cxResults>
-  <generics>
-    <app>GSO1</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_UserTriggerHandler.cls</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>GSO1 is adding a GLBL component on User</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSO1</app>
     <org>gso1</org>
@@ -3168,15 +2168,7 @@
     <justification>GSO1 is adding a GLBL component on User</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>GSO1</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/Test_GLBL_UserTriggerHandler.cls</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>GSO1 is adding a GLBL component on User</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSO1</app>
     <org>gso1</org>
@@ -3186,15 +2178,7 @@
     <justification>GSO1 is adding a GLBL component on User</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>GSO1</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>triggers/GLBL_UserTrigger.trigger</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>GSO1 is adding a GLBL component on User</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSO1</app>
     <org>gso1</org>
@@ -3215,15 +2199,7 @@
   App...: GSO3
   ==================================================================================================
 -->
-  <generics>
-    <app>GSO3</app>
-    <org>gso3</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_ErrorLog_Utility.cls</item>
-    <justification>GSO3 is introducing this GLBL class in GSO3 org</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20170515</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSO3</app>
     <org>gso3</org>
@@ -3233,15 +2209,7 @@
     <approvedBy>Ishaan Motwani</approvedBy>
     <expiresYyyyMmDd>20170515</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>GSO3</app>
-    <org>gso3</org>
-    <type>GlobalFile</type>
-    <item>classes/Test_GLBL_ErrorLog_Utility.cls</item>
-    <justification>GSO3 is introducing this GLBL class in GSO3 org</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20170515</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>GSO3</app>
     <org>gso3</org>
@@ -3262,15 +2230,7 @@
   App...: INTG
   ==================================================================================================
 -->
-  <generics>
-    <app>INTG</app>
-    <org>gso1</org>
-    <type>ProfileNode</type>
-    <item>GSO Basic User_Platform.profile___tabVisibilities</item>
-    <justification>Integrity application needs access to Article management tab. For other users, it will give insufficient privellege. Refer QD-004115 for more details.</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20170131</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>INTG</app>
     <org>gso1</org>
@@ -3280,15 +2240,7 @@
     <approvedBy>Ishaan Motwani</approvedBy>
     <expiresYyyyMmDd>20170615</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>INTG</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_SObjectCloneUtility.cls</item>
-    <justification>Integrity application is adding a new Glabal Class which can be re-used by other apps. Refer QD-004356 for more details.</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20170131</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>INTG</app>
     <org>gso1</org>
@@ -3298,15 +2250,7 @@
     <approvedBy>Ishaan Motwani</approvedBy>
     <expiresYyyyMmDd>20170131</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>INTG</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/Test_GLBL_SObjectCloneUtility.cls</item>
-    <justification>Integrity application is adding a new Glabal Class which can be re-used by other apps. Refer QD-004356 for more details.</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20170131</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>INTG</app>
     <org>gso1</org>
@@ -3328,15 +2272,7 @@
   ==================================================================================================
 -->
   <!-- SECTION...: TEMPORARY EXCEPTIONS -->
-  <generics>
-    <app>JOCO</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Case.Origin</item>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <justification>Updating per US-46794.  RB approval noted in app record chatter feed.</justification>
-    <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>JOCO</app>
     <org>gso1</org>
@@ -3347,15 +2283,7 @@
     <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
   </generics>
 
-  <generics>
-    <app>JOCO</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Allowing for this release.</justification>
-    <expiresYyyyMmDd>20170131</expiresYyyyMmDd>
-  </generics>
+  
   <!-- END SECTION...: TEMPORARY EXCEPTIONS -->
 
   <generics>
@@ -3423,15 +2351,7 @@
   App...: AICT
   ==================================================================================================
 -->
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Product_Group_GLBL__c.Cntry_Cd_GLBL__c</item>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0x0N00000AD75I for more details</justification>
-    <expiresYyyyMmDd>20180223</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3441,15 +2361,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0x0N00000AD75I for more details</justification>
     <expiresYyyyMmDd>20180223</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Product_Group_GLBL__c.Dialect_Nm_GLBL__c</item>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0x0N00000AD75I for more details</justification>
-    <expiresYyyyMmDd>20180223</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3459,15 +2371,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0x0N00000AD75I for more details</justification>
     <expiresYyyyMmDd>20180223</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Product_Group_GLBL__c.Lst_Pblsh_Dt_GLBL__c</item>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0x0N00000AD75I for more details</justification>
-    <expiresYyyyMmDd>20180223</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3477,15 +2381,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0x0N00000AD75I for more details</justification>
     <expiresYyyyMmDd>20180223</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomObject</type>
-    <item>GLBL_Product__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>AICT is introducing this GLBL object for the first time.</justification>
-    <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3495,15 +2391,7 @@
     <justification>Rob chattered approval for Account search layout change in QD-004782.</justification>
     <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Product_Group_GLBL__c.Trnsltd_Grp_Nm_GLBL__c</item>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3513,15 +2401,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>Layout</type>
-    <item>Account-GLBL_HCO Organization</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3531,15 +2411,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20180223</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>PermissionSet</type>
-    <item>MERC_Integration_ODS</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details. Also AICT has approval from MERC to update their permission set</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
     <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3549,15 +2421,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Bnft_Dsgn_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3567,15 +2431,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Bsns_Nm3_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3585,15 +2441,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Clsfctn_Desc_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3603,15 +2451,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cntrct_Nm_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3621,15 +2461,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cntry_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3639,15 +2471,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cust_Grp_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3657,15 +2481,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cust_Typ_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3675,15 +2491,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Decd_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3693,15 +2501,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Del_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3711,15 +2511,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Dspnsng_Acct_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3729,15 +2521,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Efctv_Start_Dt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3747,15 +2531,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs2_Extnsn_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3765,15 +2541,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Cntry_Prfx_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3783,15 +2551,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Extnsn_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3801,15 +2561,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Fax_Extnsn_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3819,15 +2571,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Elctrnc_Adrs_Txt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3837,15 +2581,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Formulary_Id_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3855,15 +2591,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Governance_Level_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3873,15 +2601,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Ims_Prscrbr_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3891,15 +2611,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Indstry_Grp_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3909,15 +2621,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.ODS_Ld_Tmstmp_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3927,15 +2631,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.ODS_Lst_Updt_Tmstmp_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3945,15 +2641,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Other_Specialities_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3963,15 +2651,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.PHAP_Manager_Name__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3981,15 +2661,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Party_Rcrd_Typ_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -3999,15 +2671,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Party_Sts_Desc_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4017,15 +2681,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Pmt_Nm_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4035,15 +2691,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Prfsnl_Start_Dt_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4053,15 +2701,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Primary_Addr_Line1_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4071,15 +2711,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Primary_Address_Country_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4089,15 +2721,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Primary_St_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4107,15 +2731,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Spclty_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4125,15 +2741,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Src_Block_Flg_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4143,15 +2751,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Store_Loc_Nbr_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4161,15 +2761,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Sub_Clsfctn_Desc_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4179,15 +2771,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Territory_Id_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4197,15 +2781,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Trtry_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4215,15 +2791,7 @@
     <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Whlslr_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4234,15 +2802,7 @@
     <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
   </generics>
 <!--Adding two new fields based on the object being used common across different apps> -->
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.AICT_Primary_SAP_Name__c</item>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>AICT</app>
     <org>gso1</org>
@@ -4540,15 +3100,7 @@
   App...: PANG
   ==================================================================================================
 -->
-  <generics>
-    <app>PANG</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>See US-49346 and US-49344 for more details</justification>
-    <expiresYyyyMmDd>20171125</expiresYyyyMmDd>
-  </generics>
+  
 
   <generics>
     <app>PANG</app>
@@ -5236,15 +3788,7 @@
   App...: DVOP
   ==================================================================================================
 -->
-  <generics>
-    <app>DVOP</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Using only in lower environments.</justification>
-    <expiresYyyyMmDd>20160930</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   End App...: DVOP
@@ -5333,15 +3877,7 @@
   App...: IPAT
   ==================================================================================================
 -->
-  <generics>
-    <app>IPAT</app>
-    <org>gso3</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_TestDataUtilityClass.cls</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>IPAT modifying this test class to have whitelisted email domains in the test users</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>IPAT</app>
     <org>gso3</org>
@@ -6233,15 +4769,7 @@
     <justification>IPAT owns this item in this org.</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>IPAT</app>
-    <org>gso3</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Look at QD-004815 for more details</justification>
-    <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6251,15 +4779,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_Orig_Rev_CLINTON</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6269,15 +4789,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_Orig_Rev_GME</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6287,15 +4799,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_Orig_Rev_INDY_API</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6305,15 +4809,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_Orig_Rev_LRL_HSE_INDY</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6323,15 +4819,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_Orig_Rev_PDS</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6341,15 +4829,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_Orig_Rev_PUERTO_RICO_HSE</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6359,15 +4839,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_Orig_Rev_SPEKE</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6377,15 +4849,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_SitedStew_ALCOBENDAS</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6395,15 +4859,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_SitedStew_ELANCO_AUG</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6413,15 +4869,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_SitedStew_INDYDRY</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6431,15 +4879,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_SitedStew_INDY_PARENTERAL</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6449,15 +4889,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_SitedStew_LRL_LCC</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6467,15 +4899,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_SitedStew_PRD_QA</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6485,15 +4909,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_SitedStew_SESTO</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6503,15 +4919,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_SitedStew_USD</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6521,15 +4929,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Orig_Rev_CLINTON</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6539,15 +4939,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Orig_Rev_GME</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6557,15 +4949,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Orig_Rev_INDY_API</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6575,15 +4959,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Orig_Rev_LRL_HSE_INDY</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6593,15 +4969,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Orig_Rev_PDS</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6611,15 +4979,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Orig_Rev_PUERTO_RICO_HSE</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6629,15 +4989,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Orig_Rev_SPEKE</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6647,15 +4999,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_ALCOBENDAS</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6665,15 +5009,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_ELANCO_AUG</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6683,15 +5019,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_INDYDRY</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6701,15 +5029,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_INDY_PARENTERAL</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6719,15 +5039,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_LRL_LCC</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6737,15 +5049,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_PRD_QA</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6755,15 +5059,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_SESTO</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <generics>
       <app>IPAT</app>
       <org>gso3</org>
@@ -6773,15 +5069,7 @@
       <justification>Look at QD-004815 for more details</justification>
       <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
    </generics>
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_USD</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    <cxResults>
       <app>IPAT</app>
       <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
@@ -6813,15 +5101,7 @@
   App...: LCFD
   ==================================================================================================
 -->
-  <generics>
-    <app>LCFD</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>GLBL_Global_List_of_Values__c.Description_RTA__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>LCFD adding this new field.</justification>
-    <expiresYyyyMmDd>20160830</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   End App...: LCFD
@@ -7184,15 +5464,7 @@
     <justification>SSSC owns this recordType</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>SSSC</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_User_Settings_Trigger_Handler.cls</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Fix for DEF-008118 </justification>
-    <expiresYyyyMmDd>20160902</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>SSSC</app>
     <org>gso1</org>
@@ -7202,15 +5474,7 @@
     <justification>Fix for DEF-008118 </justification>
     <expiresYyyyMmDd>20160902</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>SSSC</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>triggers/GLBL_User_Settings_Trigger.trigger</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Fix for DEF-008118</justification>
-    <expiresYyyyMmDd>20160902</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>SSSC</app>
     <org>gso1</org>
@@ -7220,15 +5484,7 @@
     <justification>Introducing new file as part of Fix for DEF-008118</justification>
     <expiresYyyyMmDd>20160921</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>SSSC</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/Test_GLBL_User_Settings_Trigger_Handler.cls-meta.xml</item>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Introducing new file as part of Fix for DEF-008118</justification>
-    <expiresYyyyMmDd>20160921</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   End App...: SSSC
@@ -7281,16 +5537,7 @@
   App...: MICO
   ==================================================================================================
 -->
-  <cxResults>
-    <app>MICO</app>
-    <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
-    <file>*</file>
-    <line>*</line>
-    <column>*</column>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Allowing temporarily.</justification>
-    <expiresYyyyMmDd>20171231</expiresYyyyMmDd>
-  </cxResults>
+  
 
   <generics>
     <app>MICO</app>
@@ -7302,15 +5549,7 @@
     <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
   </generics>
 
-  <generics>
-    <app>MICO</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/Test_GLBL_ActionsOnSharingRecords.cls-meta.xml</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>upgrading the API of the test class</justification>
-    <expiresYyyyMmDd>20171231</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MICO</app>
     <org>gso1</org>
@@ -7644,15 +5883,7 @@
     <justification>MICO owns this item in this org.</justification>
     <expiresYyyyMmDd/>
   </generics>
-    <generics>
-    <app>MICO</app>
-    <org>gso1</org>
-    <type>CustomObject</type>
-    <item>Loop__DDP_Integration_Option__c</item>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Allowing temporarily.</justification>
-    <expiresYyyyMmDd>20160901</expiresYyyyMmDd>
-  </generics>
+    
   <generics>
     <app>MICO</app>
     <org>gso1</org>
@@ -8294,15 +6525,7 @@
   App...: LDAP
   ==================================================================================================
 -->
-  <generics>
-    <app>LDAP</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification/>
-    <expiresYyyyMmDd>20170131</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>LDAP</app>
     <org>gso1</org>
@@ -8332,15 +6555,7 @@
   App...: ATRL
   ==================================================================================================
 -->
-  <generics>
-    <app>ATRL</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>objects/GLBL_Setup_Audit_Trail__c.object</item>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>New item in this org, added by ATRL project.</justification>
-    <expiresYyyyMmDd>20160930</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>ATRL</app>
     <org>gso1</org>
@@ -8361,16 +6576,7 @@
   App...: ACED
   ==================================================================================================
 -->
-  <cxResults>
-    <app>ACED</app>
-    <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
-    <file>/classes/Test_ACED_AssetInd_TriggerHandler.cls</file>
-    <line>*</line>
-    <column>*</column>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Allowing temporarily - will be resolved via DEF-008868.</justification>
-    <expiresYyyyMmDd>20161001</expiresYyyyMmDd>
-  </cxResults>
+  
   <cxResults>
     <app>ACED</app>
     <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
@@ -8381,16 +6587,7 @@
     <justification>Allowing temporarily - will be resolved via DEF-008868.</justification>
     <expiresYyyyMmDd>20161001</expiresYyyyMmDd>
   </cxResults>
-  <cxResults>
-    <app>ACED</app>
-    <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
-    <file>/classes/Test_ACED_RedirectOnNew.cls</file>
-    <line>*</line>
-    <column>*</column>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Allowing temporarily - will be resolved via DEF-008868.</justification>
-    <expiresYyyyMmDd>20161001</expiresYyyyMmDd>
-  </cxResults>
+  
   <cxResults>
     <app>ACED</app>
     <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
@@ -13472,15 +11669,7 @@
   App...: FORM
   ==================================================================================================
 -->
-  <generics>
-    <app>FORM</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_ActionsOnSharingRecords.cls</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Updating the class for the US-50002</justification>
-    <expiresYyyyMmDd>20170605</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>FORM</app>
     <org>gso1</org>
@@ -13490,15 +11679,7 @@
     <justification>Updating the class for the US-50002</justification>
     <expiresYyyyMmDd>20170605</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>FORM</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/Test_GLBL_ActionsOnSharingRecords.cls</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Updating the class for the US-50002</justification>
-    <expiresYyyyMmDd>20170605</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>FORM</app>
     <org>gso1</org>
@@ -13508,15 +11689,7 @@
     <justification>Updating the class for the US-50002</justification>
     <expiresYyyyMmDd>20170605</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>FORM</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_Form_Execution_TriggerHandler.cls</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Updating the class for the DEF-012651</justification>
-    <expiresYyyyMmDd>20170605</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>FORM</app>
     <org>gso1</org>
@@ -13526,15 +11699,7 @@
     <justification>Updating the class for the DEF-012651</justification>
     <expiresYyyyMmDd>20170605</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>FORM</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/Test_GLBL_Form_Execution_TriggerHandler.cls</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Updating the class for the DEF-012651</justification>
-    <expiresYyyyMmDd>20170605</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>FORM</app>
     <org>gso1</org>
@@ -13974,16 +12139,7 @@
   App...: C3AP
   ==================================================================================================
 -->
-  <cxResults>
-    <app>C3AP</app>
-    <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
-    <file>*</file>
-    <line>*</line>
-    <column>*</column>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Temporarily allowing legacy code for a single prod deployment.</justification>
-    <expiresYyyyMmDd>20161130</expiresYyyyMmDd>
-  </cxResults>
+  
 
   <generics>
     <app>C3AP</app>
@@ -15526,15 +13682,7 @@
     <justification>App-specific removals are validated by code.</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>TPET</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>CustomField___Connection_Translation_Vendor__c</item>
-    <approvedBy>Ashish Tondare</approvedBy>
-    <justification>Approval chattered on US-51157.</justification>
-    <expiresYyyyMmDd>20171231</expiresYyyyMmDd>
-  </generics>
+  
 
   <cxResults>
     <app>TPET</app>
@@ -15606,15 +13754,7 @@
     <justification>JWSP owns this item in this org.</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>JWS</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App-specific removals are validated by code.</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
 <!--
   ==================================================================================================
   End App...: JWS (P)
@@ -15754,16 +13894,7 @@
   App...: RPFA
   ==================================================================================================
 -->
-  <cxResults>
-    <app>RPFA</app>
-    <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
-    <file>*</file>
-    <line>*</line>
-    <column>*</column>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Lots of getters and setters - looking into a workaround.</justification>
-    <expiresYyyyMmDd>20160830</expiresYyyyMmDd>
-  </cxResults>
+  
   <generics>
     <app>RPFA</app>
     <org>gso1</org>
@@ -15793,16 +13924,7 @@
   App...: VRAP
   ==================================================================================================
 -->
-  <cxResults>
-    <app>VRAP</app>
-    <cxQueryName>Test_Methods_With_No_Assert</cxQueryName>
-    <file>*</file>
-    <line>*</line>
-    <column>*</column>
-    <approvedBy>Terry Polk</approvedBy>
-    <justification>Allowing for this release.</justification>
-    <expiresYyyyMmDd>20160606</expiresYyyyMmDd>
-  </cxResults>
+  
   <cxResults>
     <app>VRAP</app>
     <cxQueryName>Stored_XSS</cxQueryName>
@@ -16076,15 +14198,7 @@
     <expiresYyyyMmDd>20180401</expiresYyyyMmDd>
   </generics>
 
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>CustomObject</type>
-    <item>GLBL_User_Settings__c</item>
-    <approvedBy>Jon Thomas</approvedBy>
-    <justification>Approval documented in attachment to QD-004908</justification>
-    <expiresYyyyMmDd>20170515</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -16094,15 +14208,7 @@
     <justification>Ashish approved via email for change related to US-51843.</justification>
     <expiresYyyyMmDd>20171216</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>CustomField</type>
-    <item>Case.Priority</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Email approval sent by Ishaan</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -16112,15 +14218,7 @@
     <justification>Email approval sent by Ishaan</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>CustomField</type>
-    <item>Case.Type</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Email approval sent by Ishaan</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -16130,15 +14228,7 @@
     <justification>Email approval sent by Ishaan</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>StandardValueSet</type>
-    <item>CaseStatus</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Email approval sent by Ishaan</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -16148,15 +14238,7 @@
     <justification>Email approval sent by Ishaan</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>StandardValueSetTranslation</type>
-    <item>CaseType-ja</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Email approval sent by Ishaan</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -16166,15 +14248,7 @@
     <justification>Email approval sent by Ishaan</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>StandardValueSetTranslation</type>
-    <item>CasePriority-ja</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Email approval sent by Ishaan</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -16184,15 +14258,7 @@
     <justification>Email approval sent by Ishaan</justification>
     <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>StandardValueSetTranslation</type>
-    <item>CaseStatus-ja</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Email approval sent by Ishaan</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -16218,15 +14284,7 @@
     <justification>App-specific removals are validated by code.</justification>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>DestructiveChangesItem</type>
-    <item>CustomField___Activity.Left_Message__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>DTPC owns this item in this org.</justification>
-    <expiresYyyyMmDd>20171215</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -22227,15 +20285,7 @@
     <approvedBy>Terry Polk</approvedBy>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_AutoPopulate_LogACall.cls</item>
-    <justification>For details check the chatter on US-47961</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20170522</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -22245,15 +20295,7 @@
     <approvedBy>Ishaan Motwani</approvedBy>
     <expiresYyyyMmDd>20170522</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>DTPC</app>
-    <org>gso3</org>
-    <type>GlobalFile</type>
-    <item>classes/Test_GLBL_AutoPopulate_LogACall.cls</item>
-    <justification>For details check the chatter on DEF-013092</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20170522</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>DTPC</app>
     <org>gso3</org>
@@ -22343,15 +20385,7 @@
     ================================================================================================
   -->
   <!-- TEMPORARY EXCEPTIONS -->
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.GLBL_WorkforceSAD_Status__c</item>
-    <justification>DEF-010650 - Adding new GLBL field to Account object.</justification>
-    <approvedBy>Terry Polk</approvedBy>
-    <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -22361,15 +20395,7 @@
     <approvedBy>Rob Blackketter</approvedBy>
     <expiresYyyyMmDd>20171225</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.GLBL_Translated_Title__c</item>
-    <justification>Refer design at https://gso.my.salesforce.com/a0xb000000JLEU9 for more details</justification>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <expiresYyyyMmDd>20171225</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -22379,15 +20405,7 @@
     <approvedBy>Rob Blackketter</approvedBy>
     <expiresYyyyMmDd>20171225</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>WorkflowFieldUpdate</type>
-    <item>Account.GLBL_Prim_Affiliate_HCO_Name</item>
-    <justification>Refer design at https://gso.my.salesforce.com/a0xb000000IwDYU for more details</justification>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <expiresYyyyMmDd>20171225</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -22397,15 +20415,7 @@
     <approvedBy>Rob Blackketter</approvedBy>
     <expiresYyyyMmDd>20171225</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>WorkflowRule</type>
-    <item>Account.GLBL_clear_Primary_Aff_Fields</item>
-    <justification>Refer design at https://gso.my.salesforce.com/a0xb000000IwDYU for more details</justification>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <expiresYyyyMmDd>20171225</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -22415,15 +20425,7 @@
     <approvedBy>Rob Blackketter</approvedBy>
     <expiresYyyyMmDd>20171225</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>WorkflowFieldUpdate___Account.GLBL_Prim_Affiliate_HCO_Name</item>
-    <justification>Refer design at https://gso.my.salesforce.com/a0xb000000IwDYU for more details</justification>
-    <approvedBy>Rob Blackketter</approvedBy>
-    <expiresYyyyMmDd>20171225</expiresYyyyMmDd>
-  </generics>	
+  	
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -22433,15 +20435,7 @@
     <approvedBy>Jon Thomas</approvedBy>
     <expiresYyyyMmDd>20161130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_AccountMergeStampTrigger.cls</item>
-    <justification>Updating per US-50899.</justification>
-    <approvedBy>Terry Polk</approvedBy>
-    <expiresYyyyMmDd>20170901</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -22451,15 +20445,7 @@
     <approvedBy>Ishaan Motwani</approvedBy>
     <expiresYyyyMmDd>20161130</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>GlobalFile</type>
-    <item>classes/GLBL_BaseEditControllerTest.cls</item>
-    <justification>Minor update and currently only used by MERC.</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20161130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -22469,15 +20455,7 @@
     <approvedBy>Jon Thomas</approvedBy>
     <expiresYyyyMmDd>20170730</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>Layout</type>
-    <item>PersonAccount-GLBL_HCP Account</item>
-    <justification>US-40213 - see JT Chatter post from 2016-08-11 11:30 AM EDT in DevOps Automation chatter group</justification>
-    <approvedBy>Jon Thomas</approvedBy>
-    <expiresYyyyMmDd>20161130</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -22487,15 +20465,7 @@
     <approvedBy>Terry Polk</approvedBy>
     <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>ValidationRule</type>
-    <item>Account.GLBL_Can_Not_Create_Employee_Record</item>
-    <justification>QD-004832</justification>
-    <approvedBy>Rajesh Pujara</approvedBy>
-    <expiresYyyyMmDd>20170731</expiresYyyyMmDd>
-  </generics>
+  
   <!--
     ================================================================================================
     End Section...: MERC Temporary Exceptions
@@ -23017,15 +20987,7 @@
     <approvedBy>Terry Polk</approvedBy>
     <expiresYyyyMmDd/>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Merge_History_GLBL__c.Merge_Date_GLBL__c</item>
-    <justification>MERC is enabling history tracking on this GLBL field</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20171110</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -23035,15 +20997,7 @@
     <approvedBy>Ishaan Motwani</approvedBy>
     <expiresYyyyMmDd>20171110</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Merge_History_GLBL__c.Merge_Processed_MERC__c</item>
-    <justification>MERC is enabling history tracking on this GLBL field</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20171110</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -23053,15 +21007,7 @@
     <approvedBy>Ishaan Motwani</approvedBy>
     <expiresYyyyMmDd>20171110</expiresYyyyMmDd>
   </generics>
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Merge_History_GLBL__c.Winning_Account_MERC__c</item>
-    <justification>MERC is enabling history tracking on this GLBL field</justification>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <expiresYyyyMmDd>20171110</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>MERC</app>
     <org>gso1</org>
@@ -44285,6 +42231,15 @@
     <justification>See QD-005173 for more details</justification>
     <expiresYyyyMmDd>20180630</expiresYyyyMmDd>
   </generics>
+<generics>
+    <app>ERRS</app>
+    <org>gso1</org>
+    <type>ApexClass</type>
+    <item>TestClass.cls</item>
+    <approvedBy>Manikanta Rama ReddyPadala</approvedBy>
+    <justification>test comment</justification>
+    <expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+  </generics>
   <!-- END SECTION...: TEMPORARY EXCEPTIONS -->
 <!--
   ==================================================================================================
@@ -44308,15 +42263,7 @@
     <expiresYyyyMmDd>20181231</expiresYyyyMmDd>
   </generics>
   
-   <generics>
-    <app>ESSR</app>
-    <org>gso1</org>
-    <type>DestructiveChanges</type>
-    <item>permitted</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Removing app specific fields</justification>
-    <expiresYyyyMmDd>20171231</expiresYyyyMmDd>
-  </generics>
+   
   <!-- END SECTION...: TEMPORARY EXCEPTIONS -->
 <!--
   ==================================================================================================
