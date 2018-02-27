@@ -40607,4 +40607,13 @@ End Appp...: MPOCheck Marks
 End Appp...: MPO Exceptions 
 ========================================================
 -->
+<generics>
+<app>ELC</app>
+<org>gso1</org>
+<type>ApexClass</type>
+<item>TestClass.cls</item>
+<approvedBy>Sudheer Kakkireni</approvedBy>
+<justification>test comment</justification>
+<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+</generics>
 </exceptions>
