@@ -29,4 +29,23 @@ App...: CTSS Exceptions
 =======================================================
 End Appp...: CTSS Exceptions 
 ========================================================
+-->
+<!--
+=======================================================
+App...: ERRS Exceptions 
+========================================================
+-->
+<generics>
+<app>ERRS</app>
+<org>gso1</org>
+<type>ApexComponent</type>
+<item>TestComponent1</item>
+<approvedBy>Sudheer Kakkireni</approvedBy>
+<justification>Skipping exception</justification>
+<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+</generics>
+<!--
+=======================================================
+End Appp...: ERRS Exceptions 
+========================================================
 --></exceptions>
