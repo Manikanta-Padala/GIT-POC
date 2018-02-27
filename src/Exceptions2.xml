@@ -70,15 +70,7 @@
   
   
   
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>Report___Elanco_AssetOptics_Reports/Open_Work_Orders_by_Dept</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -138,15 +130,7 @@
   
   
   
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>sm1e_AssetOptics_Maintenance_Supervisor.permissionset___ViewMyTeamsDashboards</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>App specific removals</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -186,15 +170,7 @@
   
   
   
-  <generics>
-    <app>sm1e</app>
-    <org>gso1</org>
-    <type>Report</type>
-    <item>Elanco_AssetOptics_Reports/Work_Orders_by_Tech_Past_Due1</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>SM1E owns this component</justification>
-    <expiresYyyyMmDd>20180220</expiresYyyyMmDd>
-  </generics>
+  
   <generics>
     <app>sm1e</app>
     <org>gso1</org>
@@ -489,15 +465,7 @@
   
   
   
-  <generics>
-    <app>MSED</app>
-    <org>gso1</org>
-    <type>DestructiveChangesItem</type>
-    <item>CustomObject___MED_List_Option__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Changing app code from MED to MSED</justification>
-    <expiresYyyyMmDd>20171130</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -555,15 +523,7 @@
   
   
   
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Cust_Typ_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -603,15 +563,7 @@
   
   
   
-  <generics>
-    <app>OAPT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Other_Specialities_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>OAPT team is adding OAPT related lists to the Account-GLBL_HCO Organization layout towards the end in the order.Check US-52730  and US-52629 for more details</justification>
-    <expiresYyyyMmDd>20180210</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -1470,15 +1422,7 @@
   
     
   
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Bsns_Nm2_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -1518,15 +1462,7 @@
   
   
   
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Frmr_Nm_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -1566,15 +1502,7 @@
   
   
   
-  <generics>
-    <app>AICT</app>
-    <org>gso1</org>
-    <type>CustomField</type>
-    <item>Account.Src_Sys_Cd_GLBL__c</item>
-    <approvedBy>Ishaan Motwani</approvedBy>
-    <justification>Please check https://gso.my.salesforce.com/a0xb000000IWCW1 for more details</justification>
-    <expiresYyyyMmDd>20171208</expiresYyyyMmDd>
-  </generics>
+  
   
   
   
@@ -3552,15 +3480,7 @@
    
    
    
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Form_Template__c.IPAT_Template_Orig_Rev_USD</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    
    
    
@@ -3600,15 +3520,7 @@
    
    
    
-   <generics>
-      <app>IPAT</app>
-      <org>gso3</org>
-      <type>DestructiveChangesItem</type>
-      <item>SharingCriteriaRule___GLBL_Site__c.IPAT_Site_Sharing_CLINTON</item>
-      <approvedBy>Ishaan Motwani</approvedBy>
-      <justification>Look at QD-004815 for more details</justification>
-      <expiresYyyyMmDd>20170430</expiresYyyyMmDd>
-   </generics>
+   
    
    
    
@@ -18798,15 +18710,7 @@
   
   
   
-  <generics>
-    <app>MERC</app>
-    <org>gso1</org>
-    <type>ValidationRule</type>
-    <item>Account.GLBL_Can_Not_Create_HCP_HCO_Record</item>
-    <justification>New GLBL rule for DEF-010972 and US-47900.</justification>
-    <approvedBy>Terry Polk</approvedBy>
-    <expiresYyyyMmDd>20161231</expiresYyyyMmDd>
-  </generics>
+  
   
   <!--
     ================================================================================================
