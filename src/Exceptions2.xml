@@ -40514,6 +40514,16 @@ App...: IIR Exceptions
 <justification>test comment</justification>
 <expiresYyyyMmDd>20180606</expiresYyyyMmDd>
 </generics>
+<cxResults>
+<app>IIR</app>
+<cxQueryName>Stored_XSS</cxQueryName>
+<file>test</file>
+<line>3</line>
+<column>10</column>
+<approvedBy>Bala Padala</approvedBy>
+<justification>test</justification>
+<expiresYyyyMmDd>20180606</expiresYyyyMmDd>
+</cxResults>
 <!--
 =======================================================
 End Appp...: IIR Exceptions 
